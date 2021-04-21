@@ -4,9 +4,10 @@
   "description": "incap bypass",
   "main": "index.js",
   "scripts": {
-    "test": "nothing",
+    "test": "nothing"
     "start": "node index.js"
-}
+
+
   },
   "repository": {
     "type": "git",
