@@ -1,0 +1,18 @@
+{
+  "name": "incapsula-bypass-master",
+  "version": "1.0.0",
+  "description": "incap bypass",
+  "main": "index.js",
+  "scripts": {
+    "test": "nothing"
+  },
+  "repository": {
+    "type": "git",
+    "url": "test"
+  },
+  "keywords": [
+    "incap"
+  ],
+  "author": "cash2900",
+  "license": "ISC"
+}
