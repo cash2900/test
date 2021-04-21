@@ -1,6 +1,6 @@
 const http = require('http');
 const { evaluate } = require('./evaluate');
-const port = 5000;
+const port = process.env.PORT || 3000;
 let indexNum = 0;
 
 var cluster = require('cluster');
